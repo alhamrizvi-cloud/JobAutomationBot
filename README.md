@@ -50,7 +50,8 @@ python --version   # Should be 3.11 or higher
 
 ### Step 2 — Clone / Download the project
 ```bash
-cd job_bot
+git clone github.com/alhamrizvi-cloud/JobAutomationBot
+cd JobAutomationBot
 ```
 
 ### Step 3 — Create a virtual environment (recommended)
